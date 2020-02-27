@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/grow-plant/bin/Debug/netcoreapp2.2/grow-plant.deps.json
+/Users/Guest/Desktop/grow-plant/bin/Debug/netcoreapp2.2/grow-plant.runtimeconfig.json
+/Users/Guest/Desktop/grow-plant/bin/Debug/netcoreapp2.2/grow-plant.runtimeconfig.dev.json
+/Users/Guest/Desktop/grow-plant/bin/Debug/netcoreapp2.2/grow-plant.dll
+/Users/Guest/Desktop/grow-plant/bin/Debug/netcoreapp2.2/grow-plant.pdb
+/Users/Guest/Desktop/grow-plant/obj/Debug/netcoreapp2.2/grow-plant.csprojAssemblyReference.cache
+/Users/Guest/Desktop/grow-plant/obj/Debug/netcoreapp2.2/grow-plant.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/grow-plant/obj/Debug/netcoreapp2.2/grow-plant.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/grow-plant/obj/Debug/netcoreapp2.2/grow-plant.AssemblyInfo.cs
+/Users/Guest/Desktop/grow-plant/obj/Debug/netcoreapp2.2/grow-plant.dll
+/Users/Guest/Desktop/grow-plant/obj/Debug/netcoreapp2.2/grow-plant.pdb
